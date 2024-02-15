@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @nilsw13
 - 👀 I’m interested in innovation, OSINT, IT, and humanity 
-- 🧠 I’m currently learning software programmers skills at La Plateforme, Marseille campus.
+- 🧠 I’m currently learning software programming skills at La Plateforme, Marseille campus.
 - 🔍 I’m looking for an apprenticeship in software programming
 - 📫 How to reach me : - nilswentingpro@gmail.com
                         - Linkedin : https://www.linkedin.com/in/nils-wenting-332348281/
