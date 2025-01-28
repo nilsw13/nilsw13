@@ -1,14 +1,12 @@
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=70A4FC&center=true&vCenter=true&width=600&lines=Hello+👋,+I'm+Nils;Full+Stack+Developer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=40&pause=1000&color=70A4FC&center=true&vCenter=true&width=600&lines=Hello+👋,+I'm+Nils;Junior+Developer" alt="Typing SVG" />
 </div>
 
 ### 👨‍💻 About Me
 
-I'm a passionate Full Stack Developer specializing in Java and React development. I love building scalable web applications and exploring new technologies.
+I'm a passionate  Developer specializing in Java and React development. I love building scalable web applications and exploring new technologies.
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nilsw13&layout=compact&theme=tokyonight" />
-</div>
+
 
 ### 🛠️ Tech Stack
 
@@ -26,7 +24,8 @@ I'm a passionate Full Stack Developer specializing in Java and React development
 
 <div align="center">
   
-[![JavaTopTools](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=JavaTopTools_api&theme=tokyonight)](https://github.com/nilsw13/JavaTopTools_api)
+[![JavaTopTools - api](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=JavaTopTools_api&theme=tokyonight)](https://github.com/nilsw13/JavaTopTools_api)
+[![JavaTopTools - frontend](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=JavaTopTools_api&theme=tokyonight)](https://github.com/nilsw13/JavaTopTools_front)
 [![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=frontend_portefolio&theme=tokyonight)](https://github.com/nilsw13/frontend_portefolio)
 
 </div>
@@ -41,9 +40,11 @@ I'm a passionate Full Stack Developer specializing in Java and React development
 
 <div align="center">
   
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/votre-profil)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nils-wenting-332348281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuGVQwmdJQeiO8EbE57b1Dw%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilswentingpro@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](votre-portfolio)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nilsoportefolio.vercel.app/)
+[![My SAAS](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://photocv-frontend.vercel.app/)
+
 
 </div>
 
