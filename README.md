@@ -26,7 +26,7 @@ I'm a passionate  Developer specializing in Java and React development. I love b
   
 [![JavaTopTools - api](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=JavaTopTools_api&theme=tokyonight)](https://github.com/nilsw13/JavaTopTools_api)
 [![JavaTopTools - frontend](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=JavaTopTools_api&theme=tokyonight)](https://github.com/nilsw13/JavaTopTools_front)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=frontend_portefolio&theme=tokyonight)](https://portefolio-peach.vercel.app/)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=frontend_portefolio&theme=tokyonight)](https://github.com/nilsw13/frontend_portefolio)
 
 </div>
 
@@ -42,7 +42,7 @@ I'm a passionate  Developer specializing in Java and React development. I love b
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nils-wenting-332348281?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BuGVQwmdJQeiO8EbE57b1Dw%3D%3D)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:nilswentingpro@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://nilsoportefolio.vercel.app/)
+[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://portefolio-peach.vercel.app/)
 [![BENTO](https://img.shields.io/badge/BENTO-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://bento.me/nils-wenting/)
 
 
