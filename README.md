@@ -26,7 +26,7 @@ I'm a passionate  Developer specializing in Java and React development. I love b
   
 [![JavaTopTools - api](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=JavaTopTools_api&theme=tokyonight)](https://github.com/nilsw13/JavaTopTools_api)
 [![JavaTopTools - frontend](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=JavaTopTools_api&theme=tokyonight)](https://github.com/nilsw13/JavaTopTools_front)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=frontend_portefolio&theme=tokyonight)](https://github.com/nilsw13/frontend_portefolio)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=frontend_portefolio&theme=tokyonight)](https://portefolio-peach.vercel.app/)
 
 </div>
 
