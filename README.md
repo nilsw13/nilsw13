@@ -34,7 +34,7 @@ I'm a passionate  Developer specializing in Java and React development. I love b
 ### 📊 GitHub Stats
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilsw13" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nilsw13&theme=cobalt" />
 </div>
 
 ### 🤝 Connect with Me
