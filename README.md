@@ -25,9 +25,9 @@ I'm a passionate  Developer specializing in Java and React development. I love b
 <div align="center">
   
 [![JavaTopTools - api](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=JavaTopTools_api&theme=cobalt)](https://github.com/nilsw13/JavaTopTools_api)
-[![BankMasteryCash - api](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=BankMasteryCash-api)](https://github.com/nilsw13/BankMasteryCash-api)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=frontend_portefolio)](https://github.com/nilsw13/frontend_portefolio)
-[![Spring Boot React SaaS Starter Kit](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=spring-react)](https://github.com/nilsw13/spring-react)
+[![BankMasteryCash - api](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=BankMasteryCash-api&theme=cobalt)](https://github.com/nilsw13/BankMasteryCash-api)
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=frontend_portefolio&theme=cobalt)](https://github.com/nilsw13/frontend_portefolio)
+[![Spring Boot React SaaS Starter Kit](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=spring-react&theme=cobalt)](https://github.com/nilsw13/spring-react)
 
 </div>
 
