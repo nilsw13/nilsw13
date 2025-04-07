@@ -26,8 +26,7 @@ I'm a passionate  Developer specializing in Java and React development. I love b
   
 [![Spring-Replicate Package](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=Spring-Replicate&theme=cobalt&description=Spring%20Boot%20client%20for%20the%20Replicate%20AI%20platform)](https://github.com/nilsw13/Spring-Replicate)
 
-[![Spring Boot React SaaS Starter Kit](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=spring-react&theme=cobalt&description=Multi-tenant%20SaaS%20starter%20kit)](https://github.com/nilsw13/spring-react)
-
+[![spring-react](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=spring-react&theme=cobalt&description=Spring%20boot%20-%20ReactJs%20SAAS%20building%20starter%20kit%20--%20Work%20in%20progress)](https://github.com/nilsw13/spring-react)
 
 
 
