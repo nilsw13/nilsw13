@@ -24,10 +24,13 @@ I'm a passionate  Developer specializing in Java and React development. I love b
 
 <div align="center">
   
-[![Spring-Replicate Package](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=Spring-Replicate&theme=cobalt)](https://github.com/nilsw13/Spring-Replicate)
-[![BankMasteryCash - api](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=BankMasteryCash-api&theme=cobalt)](https://github.com/nilsw13/BankMasteryCash-api)
-[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=frontend_portefolio&theme=cobalt)](https://github.com/nilsw13/frontend_portefolio)
-[![Spring Boot React SaaS Starter Kit](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=spring-react&theme=cobalt)](https://github.com/nilsw13/spring-react)
+[![Spring-Replicate Package](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=Spring-Replicate&theme=cobalt&description=Spring%20Boot%20client%20for%20the%20Replicate%20AI%20platform)](https://github.com/nilsw13/Spring-Replicate)
+
+[![BankMasteryCash - api](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=BankMasteryCash-api&theme=cobalt&description=Java%20Spring%20Boot%20API%20for%20banking%20and%20financial%20operations)](https://github.com/nilsw13/BankMasteryCash-api)
+
+[![Portfolio](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=frontend_portefolio&theme=cobalt&description=Personal%20portfolio%20website%20built%20with%20TypeScript)](https://github.com/nilsw13/frontend_portefolio)
+
+[![Spring Boot React SaaS Starter Kit](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=spring-react&theme=cobalt&description=Full-stack%20application%20template%20combining%20Spring%20Boot%20and%20React)](https://github.com/nilsw13/spring-react)
 
 </div>
 
