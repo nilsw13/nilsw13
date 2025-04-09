@@ -28,6 +28,8 @@ I'm a passionate  Developer specializing in Java and React development. I love b
 
 [![spring-react](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=spring-react&theme=cobalt&description=Spring%20boot%20-%20ReactJs%20SAAS%20building%20starter%20kit%20--%20Work%20in%20progress)](https://github.com/nilsw13/spring-react)
 
+[![spring-react](https://github-readme-stats.vercel.app/api/pin/?username=nilsw13&repo=starter-kit-cli&theme=cobalt&description=Spring%20boot%20-%20ReactJs%20SAAS%20building%20starter%20kit%20--%20Work%20in%20progress)](https://github.com/nilsw13/starter-kit-cli)
+
 
 
 
